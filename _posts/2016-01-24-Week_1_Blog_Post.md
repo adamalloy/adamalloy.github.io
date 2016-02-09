@@ -28,3 +28,6 @@ What Am I Going To Do Next Week?
 
 Next week it's time to get my fingers flexing on the Collatz project. The project seems fun and not too challenging, I think the main point of it is to familiarize us
 with using git regularly, and with the continuous integration technology Travis we will be using to track our progress. I have a lot of reading to do as well.
+
+Tip of the Week
+Check all resources provided before you attempt a project. I tried to set up this blog from the first link, which took hours and even after all that time was unsuccessful. The set up provided from the second link took about 40 minutes and allowed you to read this.
