@@ -5,9 +5,8 @@ title: First Week
 ![My Profile Picture](/images/adampic.jpg)
 
 
-I am excited to be learn Software Engineering. Out of all of the classes I've taken in my time in CS, 373 seems like the one I'll get the most out of.
-In the first lecture Professor Downing told us we'd have designed a running website with a built in database by the end of the semester, which is a project
-I am heavily anticipating. 
+I am excited to be in Software Engineering. Out of all of the classes I've taken in my time in CS, 373 seems like the one I'll get the most out of.
+In the first lecture Professor Downing told us we'll have designed a running website with a built in database by the end of the semester, which is a project I am heavily anticipating. 
 
 What Did I Do In The First Week?
 
@@ -31,4 +30,5 @@ Next week it's time to get my fingers flexing on the Collatz project. The projec
 with using git regularly, and with the continuous integration technology Travis we will be using to track our progress. I have a lot of reading to do as well.
 
 Tip of the Week
+
 Check all resources provided before you attempt a project. I tried to set up this blog from the first link, which took hours and even after all that time was unsuccessful. The set up provided from the second link took about 40 minutes and allowed you to read this.
