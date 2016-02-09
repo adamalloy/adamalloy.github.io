@@ -1,0 +1,28 @@
+---
+layout: default
+title: First Week 
+---
+![My Profile Picture](/images/adampic.jpg)
+
+
+This Week:
+My primary work this week focused on setup for the Collatz project. That means getting familiar with using Github. I'd used github 
+a few times in Operating Systems and System Architecture but did not know how to manage one with command line arguments. This week
+I learned how to clone files from github onto my remote machine and how to get these files back on github after I edited them. This
+is an invaluable skill to have for the professional world or if I want to work on a project on multiple machines. I have begun
+to think about how I am going to optimize my solution to Collatz. It is very cool to approach a project in a test oriented way, as
+in having some tests that we are gearing the project to answering. This is a different way to look at designing code. Making
+sure I have the acceptance tests to guide me, when I optimize code later I'll immediately know if it breaks
+
+Issues: 
+The readings were very intensive, I read some of the book but not far enough into it to get questions related to the reading right on
+in class quizzes. These quizzes, for some reason, are difficult for me to succeed on. A lot of it has to do with the short time frame,
+logging into the canvas and input the code takes almost 30 seconds of quiz time. I only have 12 issues on the git tracker, but am
+saving the rest of them for bugs that may arrise during the project.
+
+Next Week:
+Next week will be crazy - the career fair, two homeworks in other classes, and then Collatz is due. I need to work hard over the weekend
+and pace myself. I am confident that everything will work out. I polished off my resume by adding a comprehensive list of projects I've worked on.
+
+Tip Of The Week:
+Get ahead! When you know that there will be a time crunch in the future make plans to take stress off of yourself and excute them!
