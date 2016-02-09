@@ -2,7 +2,8 @@
 layout: default
 title: First Week 
 ---
-(/images/adampic.jpg)
+{% image /image/adampic.jpg [attr="value"] %}
+
 
 I am excited to be learn Software Engineering. Out of all of the classes I've taken in my time in CS, 373 seems like the one I'll get the most out of.
 In the first lecture Professor Downing told us we'd have designed a running website with a built in database by the end of the semester, which is a project
