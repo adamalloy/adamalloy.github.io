@@ -2,7 +2,7 @@
 layout: default
 title: First Week 
 ---
-{% image /image/adampic.jpg [attr="value"] %}
+![My Profile Picture](/images/adampic.jpg)
 
 
 I am excited to be learn Software Engineering. Out of all of the classes I've taken in my time in CS, 373 seems like the one I'll get the most out of.
