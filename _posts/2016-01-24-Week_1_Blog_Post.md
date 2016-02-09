@@ -20,9 +20,9 @@ What's In My way?
 
 This blog took me a very long time to set up. I had tried to set it up with command line arguments before I found a pre-set repo we could fork to make blogging easy.
 
-The quizzes seem like they will be a big issue for me. I am confident in my abilities to exceed on projects and tests but quick quizzes have never been my forte.
+The quizzes seem like they will be a big issue for me. I am confident in my abilities to excel on projects and tests but quick quizzes have never been my forte.
 
-This class is coding and reading intensive, so I need to be very proactive in order to suceed.
+This class is coding and reading intensive so I need to be proactive in order to stay on top of it.
 
 What Am I Going To Do Next Week?
 
