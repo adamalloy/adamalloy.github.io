@@ -1,0 +1,15 @@
+This week was the end of the very cool netflix prize project. I was excited to have a real world application that used actual user data
+to solve a specific company problem. It was mind boggling to me and my partner how simple our final algorithm was. We redesigned it
+3 or 4 times before we arrived at the final algorithm. Earlier implementations had used standard deviations, variances, different
+midpoints and conditionals to determine our final guess - the solution we submitted just used a single offset.
+
+As I learn more about python I am constantly thrilled by it's elegance and simplicity. Multiple for loops with conditional statements
+can initialize a list in a single line, a single word can give a while loop all it needs to iterate through a list. Sometimes I scratch my
+head over how and why things work the way they do. Though it the language I have the least experience with it is the one I like the best.
+
+I am was relieved to discover that I had another week to prepare for the midterm - which I thought was this Thursday. That takes the pressure off
+and gives me the time I need to ace my Algorithms and Complexity midterm later this week. I am happy to report that I have been scoring consistently
+higher on my quizzes than the first part of the class. That had been a major sticking point but I finally got the hang of it. 
+
+Protip: Read the python files on the schedule before you come to class. Yeah, I know it's a lot of reading with what else has been assigned
+but you'll have a more intuitive understanding of the syntax and purpose of functions so the lecture will be more enriching. 
