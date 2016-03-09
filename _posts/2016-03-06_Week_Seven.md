@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week Three - Collatz_solve 
+title: Week Seven - Testing the Waters
 ---
 ![My Profile Picture](/images/adampic.jpg)
 
