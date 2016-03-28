@@ -1,0 +1,21 @@
+---
+layout: default
+title: Week Nine - Deadlines - They Make the Funnest Noises As They Go Whizzing By
+---
+![My Profile Picture](/images/adampic.jpg)
+
+What Did I Do This Week?
+
+This week was crunch time for the first round of the IDB project. Our team laid the groundwork for the project over break, but encountered some problems as the week progressed. We broke our team up so each member had a speciality - mine was the RESTful API and I also ended up doing most of the technical write up (which is great because I love writing!). The API took me a while to wrap my head around - at first I statically listed every entry of every page on the site - but by the end I think it came out clean and great. Our site, Virtual Address Space, is focused on providing recent graduates with housing information to help them navigate their way through job offers in different states. 
+
+What Was In Your Way?
+
+We faced several challenges in implementing our website which ultimately ended with us turning in the project a day late without a working pydoc. Our first issue was getting docker working. After that it took a very long time to resolve the IP address into virtual-address.space. We had issues  links on our page and getting the about page to display correctly. We were able to resolve all of these issues but could not get SQLchemy to run with the pydoc. We did hours of troubleshooting but ultimately it did not work.
+
+What will you do next week?
+
+We're going to get an early start on our project and make sure that the next stage is done well before the Thursday deadline. We need to decide if everyone is going to keep the same roles they had this week or if we are going to branch out, I would love an opportunity to learn some JavaScript and work on the front end. 
+
+Tip Of The Week:
+
+Make sure you're familiar with all the different technologies that the group is using, it comes in handy with debugging. 
