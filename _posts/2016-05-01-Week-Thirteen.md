@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week Twelve - Winding Down Project 3 
+title: Week Thirteen - Nearing The Finish Line
 ---
 ![My Profile Picture](/images/adampic.jpg)
 
