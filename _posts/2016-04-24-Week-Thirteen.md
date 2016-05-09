@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week Twelve - Crossing The Finish Line After Six Weeks of Sprint 
+title: Week Thirteen - Crossing The Finish Line After Six Weeks of Sprint 
 ---
 ![My Profile Picture](/images/adampic.jpg)
 
