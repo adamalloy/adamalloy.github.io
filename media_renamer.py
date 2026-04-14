@@ -5,8 +5,6 @@ Renames media files to a structured naming convention:
     PROJ01_SC01_A_001.mp4
 """
 
-import os
-import re
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 from pathlib import Path
@@ -226,17 +224,16 @@ class MediaRenamerApp(tk.Tk):
 
         # Two-phase rename: first to temp names, then to final names.
         # This avoids collisions when files are being shuffled (e.g. 001->002).
-        temp_paths: list[tuple[Path, Path]] = []
+        temp_paths: list[tuple[Path, Path, Path]] = []  # (temp, final, original)
         try:
             for f, (_, new_name) in zip(self._files, self._preview):
                 temp = folder / (f.name + ".__tmp__")
                 f.rename(temp)
-                temp_paths.append((temp, folder / new_name))
+                temp_paths.append((temp, folder / new_name, f))
         except OSError as exc:
             # Roll back temps already done
-            for tmp, _ in temp_paths:
+            for tmp, _, orig in temp_paths:
                 if tmp.exists():
-                    orig = folder / tmp.name.replace(".__tmp__", "")
                     try:
                         tmp.rename(orig)
                     except OSError:
@@ -244,7 +241,7 @@ class MediaRenamerApp(tk.Tk):
             messagebox.showerror("Error", f"Rename failed during temp phase:\n{exc}")
             return
 
-        for tmp, final in temp_paths:
+        for tmp, final, _ in temp_paths:
             try:
                 tmp.rename(final)
                 renamed += 1
